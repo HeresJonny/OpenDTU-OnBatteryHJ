@@ -2,6 +2,7 @@
 /*
  * Copyright (C) 2022-2026 Thomas Basler and others
  */
+// NRF24: protocol-correct response channel offset after TX (PR #3010)
 #include "HoymilesRadio_NRF.h"
 #include "Hoymiles.h"
 #include "Utils.h"
