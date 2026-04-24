@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
+// NRF24: protocol-correct response channel offset after TX (PR #3010)
 #pragma once
 
 #include "HoymilesRadio.h"
